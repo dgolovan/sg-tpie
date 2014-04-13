@@ -1,2 +1,5 @@
 .tox**
 *.egg**
+*~
+*.pyc
+venv
